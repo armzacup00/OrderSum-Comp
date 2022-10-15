@@ -1,0 +1,39 @@
+.bgc{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(pattern-background-desktop.svg);
+    background-color: hsl(225, 100%, 94%);
+}
+.wnh{
+    width: 400px;
+    height: auto;
+    background-color: hsl(225, 100%, 98%);
+}
+.bgib{
+    background-color: rgb(233, 237, 250);
+}
+.btnc{
+    background-color: hsl(245, 75%, 52%);
+    box-shadow: 0px 20px 10px hsl(225, 100%, 94%);
+}
+.btnc:hover{
+    background-color:hsl(245, 75%, 52%);
+    opacity: 0.5;
+}
+*{
+    font-family: 'Red Hat Display', sans-serif;
+}
+.fc{
+    color: hsl(245, 75%, 52%);
+}
+.ahover:hover{
+    text-decoration: none;
+    opacity: 0.5;
+}
+.acancel{
+    text-decoration: none;
+    color: gray;
+}
+.acancel:hover{
+    color: black;
+}
